@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EBBusiness</string>
+    <string name="textView2">Agendamentos</string>
+    <string name="textView15">GOL  (Classe Econômica) Hotel Íbis  (Diária simples)     R$550,00</string>
+    <string name="textView19">LATAM (Classe Executiva) Hotel HOT-2  (Diária com café e traslado)     R$750,00</string>
+    <string name="textView20">AZUL (Primeira Classe)  Hotel HOT-3 (Diária completa 3 refeições, 2 pontos turísticos e ingressos)   R$1050,00</string>
+    <string name="textView21">Sobre</string>
+    <string name="textView13">O autor, créditos e links:\n
+Programa feito pelo grupo da Fatec-ID:\n
+Sidney Souza, Alexandre Ferro, Murilo Rigão e Ana Paula Dutra\n
+
+Plataforma:
+Android Studio 4.0.1\n
+
+Requisitos mínimos:\n
+Microsoft® Windows® 8/10/11 de 64 bits.\n
+Arquitetura de CPU x86_64: Intel Core 2a geração.
+Pelo menos 8 GB de RAM.
+</string>
+    <string name="titSobre" />
+
+</resources>
